@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Dhruv 👋
 
-<!--
-**raodhruv94/raodhruv94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Data Analyst** passionate about transforming data into clear business insights using **Excel, SQL, Power BI, and Tableau**.
 
-Here are some ideas to get you started:
+### 🛠️ Skills
+- **Excel**: Advanced formulas, Pivot Tables, Power Query, VBA
+- **SQL**: Data cleaning, joins, window functions, CTEs
+- **Power BI**: DAX, data modelling, interactive dashboards
+- **Tableau**: Calculated fields, LOD expressions, storytelling
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📊 Featured Projects
+- [Sales Dashboard – Power BI](link-to-repo)
+
+
+### 📬 Let's Connect
+- LinkedIn: https://www.linkedin.com/in/dhruv040/
+- Email: raodhruv94@gmail.com
