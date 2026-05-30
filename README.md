@@ -10,7 +10,7 @@
 
 ### 📊 Featured Projects
 - [Sales Dashboard – Power BI](https://github.com/raodhruv94/Sales-Dashboard-Power-BI.git)
-- [HR Analytics Dashboard – Excel + Power BI](link-to-repo)
+- [HR Analytics Dashboard – Excel + Power BI](https://github.com/raodhruv94/HR-Analytics-Dashboard-Excel-Power-BI.git)
 
 
 ### 📬 Let's Connect
