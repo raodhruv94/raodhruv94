@@ -10,6 +10,7 @@
 
 ### 📊 Featured Projects
 - [Sales Dashboard – Power BI](link-to-repo)
+- [HR Analutics Dashboard – Excel + Power BI](link-to-repo)
 
 
 ### 📬 Let's Connect
