@@ -9,7 +9,7 @@
 - **Tableau**: Calculated fields, LOD expressions, storytelling
 
 ### 📊 Featured Projects
-- [Sales Dashboard – Power BI](link-to-repo)
+- [Sales Dashboard – Power BI](https://github.com/raodhruv94/Sales-Dashboard-Power-BI.git)
 - [HR Analutics Dashboard – Excel + Power BI](link-to-repo)
 
 
